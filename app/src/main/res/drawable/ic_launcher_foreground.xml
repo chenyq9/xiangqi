@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chess board pattern -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M18,18h18v18h-18z"/>
+    <path
+        android:fillColor="#DEB887"
+        android:pathData="M36,18h18v18h-18z"/>
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M54,18h18v18h-18z"/>
+    <path
+        android:fillColor="#DEB887"
+        android:pathData="M72,18h18v18h-18z"/>
+    <!-- More squares -->
+    <path
+        android:fillColor="#DEB887"
+        android:pathData="M18,36h18v18h-18z"/>
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M36,36h18v18h-18z"/>
+    <path
+        android:fillColor="#DEB887"
+        android:pathData="M54,36h18v18h-18z"/>
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M72,36h18v18h-18z"/>
+    <!-- Chess piece hint - red circle -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M54,54m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"/>
+</vector>
